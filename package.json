@@ -1,0 +1,28 @@
+{
+  "name": "dweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiiamxyz/dweb.git"
+  },
+  "author": "f",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiiamxyz/dweb/issues"
+  },
+  "homepage": "https://github.com/hiiamxyz/dweb#readme",
+  "dependencies": {
+    "next": "^12.1.6",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
